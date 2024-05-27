@@ -1,0 +1,13 @@
+.k{
+
+    flex-direction: column;
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid grey;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+      
+}
