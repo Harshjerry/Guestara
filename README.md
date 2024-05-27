@@ -19,19 +19,18 @@ Functionality
 
 
 To run app locally 
+
  fork the repo and after reaching the folder calen in your terminal   
  install all the packages using npm i  command 
  and run development ser using commmand (npm run dev)
+ it will b run on LOCAL HOST 5173
 
- it will be run on LOCAL HOST 5173
 
-
-Further 
- I followed the ViteJS guide to set up the framework and built the project from scratch without using any libraries. I have almost added all functionality, including updating, deletion, event handling, today and month slider functions, and highlighting today.
 Learnings
 From this assignment, I learned to use DayJS, deep context API, and how to handle complex states. 
-Difficult
-The most difficult part was managing events for a particular day and updating them.
+
+Difficulties
+The most difficult part was managing events for a particular day and updating them using context .
 
 
 
